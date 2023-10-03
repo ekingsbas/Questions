@@ -23,6 +23,7 @@ This is the backend API for a question-answering application developed using C#.
 ## Bulk Import Logic
 - Developed bulk import logic to facilitate the addition of questions and answers.
 - The application supports importing data from a JSON file.
+- The API project includes a Json file as an example for this porpuse (bulkimport.json).
 
 ## RESTful API
 - The API provides endpoints for various actions, including:
