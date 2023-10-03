@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "title": "What is the capital of France?",
+      "content": "I'm planning a trip to France and I need to know the capital.",
+      "tags": [ "travel", "France" ],
+      "userId": 1,
+      "answers": [
+        {
+          "content": "The capital of France is Paris.",
+          "userId": 1
+        },
+        {
+          "content": "Paris is the capital of France.",
+          "userId": 1
+        },
+        {
+          "content": "You'll love visiting Paris, it's a beautiful city.",
+          "userId": 1
+        }
+      ]
+    },
+    {
+      "title": "How does photosynthesis work?",
+      "content": "I'm studying biology and I need to understand photosynthesis.",
+      "tags": [ "biology", "science" ],
+      "userId": 1,
+      "answers": [
+        {
+          "content": "Photosynthesis is the process by which plants convert sunlight into energy.",
+          "userId": 1
+        },
+        {
+          "content": "During photosynthesis, plants take in carbon dioxide and release oxygen.",
+          "userId": 1
+        },
+        {
+          "content": "It's a fascinating process where light energy is transformed into chemical energy.",
+          "userId": 1
+        }
+      ]
+    },
+    {
+      "title": "What are the major programming languages?",
+      "content": "I'm new to programming, and I want to know the most popular programming languages.",
+      "tags": [ "programming", "languages" ],
+      "userId": 1,
+      "answers": [
+        {
+          "content": "Some major programming languages include Java, C++, Python, and JavaScript.",
+          "userId": 1
+        },
+        {
+          "content": "Java is widely used for building enterprise-level applications.",
+          "userId": 1
+        },
+        {
+          "content": "Python is known for its simplicity and versatility.",
+          "userId": 1
+        }
+      ]
+    },
+    {
+      "title": "Tell me about Albert Einstein's theory of relativity.",
+      "content": "I'm interested in physics, and I'd like to learn about Einstein's theory.",
+      "tags": [ "physics", "Einstein" ],
+      "userId": 1,
+      "answers": [
+        {
+          "content": "Albert Einstein's theory of relativity consists of two parts: special relativity and general relativity.",
+          "userId": 1
+        },
+        {
+          "content": "Special relativity introduced the famous equation E=mc².",
+          "userId": 1
+        },
+        {
+          "content": "General relativity explained the gravitational force as the curvature of spacetime.",
+          "userId": 1
+        }
+      ]
+    }
+  ]
+}
